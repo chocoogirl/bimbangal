@@ -1,0 +1,6 @@
+[submodule "bimbangal_backend"]
+	path = bimbangal_backend
+	url = https://github.com/chocoogirl/bimbangal_backend.git
+[submodule "bimbangal_frontend"]
+	path = bimbangal_frontend
+	url = https://github.com/chocoogirl/bimbangal_frontend.git
